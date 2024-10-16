@@ -26,6 +26,4 @@ foreach ($arrayDados as $dados) {
 function mostrarImagen($dado){
     echo"<img src='$dado.svg' alt='Dado 1'/>";   
 }
-
-
 ?>
